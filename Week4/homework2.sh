@@ -35,3 +35,25 @@ sudo apt update
 sudo apt install ~nros-humble-rqt*
 echo "rqt is installed"
 
+rqt
+echo "rqt is running"
+
+ros2 node info /my_turtle
+echo "List of subscibers are printed"
+
+ros2 topic list
+echo "List of all topics currently active"
+
+ros2 topic list -t
+echo "List of topics with topic type"
+
+ros2 service type /clear
+echo "Showing the type of the service"
+
+ros2 service list -t
+echo "Printing the list of services with type info"
+
+ros2 service find std_srvs/srv/Empty
+echo "Finding all the Empty type services like //clear, //rest"
+
+
