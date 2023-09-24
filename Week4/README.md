@@ -9,7 +9,7 @@
     - **[Launching nodes](https://www.notion.so/Week-4-34b065fbd3704f47b474e997e63b9823?pvs=21)**
     - **[Recording and playing back data](https://www.notion.so/Week-4-34b065fbd3704f47b474e997e63b9823?pvs=21)**
 
-## **[Nodes in ROS 2](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html#id3)**
+## **[Nodes in ROS 2](https://docs.ros.org/en/humble/_images/Nodes-TopicandService.gif)**
 
 Each node in ROS should be responsible for a single, modular purpose, e.g. controlling the wheel motors or publishing the sensor data from a laser range-finder. Each node can send and receive data from other nodes via topics, services, actions, or parameters.
 
