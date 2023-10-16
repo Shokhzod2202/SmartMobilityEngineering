@@ -1,0 +1,35 @@
+[1.649s] Invoking command in '/home/shokhzod/SmartMob/Week7_ws/src/traffic_light': PYTHONPATH=/home/shokhzod/SmartMob/Week7_ws/build/traffic_light/prefix_override:/home/shokhzod/SmartMob/Week7_ws/install/traffic_light/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/traffic_light build --build-base /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/build install --record /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/install.log --single-version-externally-managed
+[2.059s] running egg_info
+[2.060s] creating ../../build/traffic_light/traffic_light.egg-info
+[2.061s] writing ../../build/traffic_light/traffic_light.egg-info/PKG-INFO
+[2.061s] writing dependency_links to ../../build/traffic_light/traffic_light.egg-info/dependency_links.txt
+[2.061s] writing entry points to ../../build/traffic_light/traffic_light.egg-info/entry_points.txt
+[2.061s] writing requirements to ../../build/traffic_light/traffic_light.egg-info/requires.txt
+[2.062s] writing top-level names to ../../build/traffic_light/traffic_light.egg-info/top_level.txt
+[2.062s] writing manifest file '../../build/traffic_light/traffic_light.egg-info/SOURCES.txt'
+[2.065s] reading manifest file '../../build/traffic_light/traffic_light.egg-info/SOURCES.txt'
+[2.066s] writing manifest file '../../build/traffic_light/traffic_light.egg-info/SOURCES.txt'
+[2.066s] running build
+[2.066s] running build_py
+[2.067s] creating /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/build
+[2.067s] creating /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/build/lib
+[2.067s] creating /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/build/lib/traffic_light
+[2.067s] copying traffic_light/__init__.py -> /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/build/lib/traffic_light
+[2.067s] running install
+[2.075s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.076s]   warnings.warn(
+[2.076s] running install_lib
+[2.077s] creating /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/lib/python3.10/site-packages/traffic_light
+[2.078s] copying /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/build/lib/traffic_light/__init__.py -> /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/lib/python3.10/site-packages/traffic_light
+[2.080s] byte-compiling /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/lib/python3.10/site-packages/traffic_light/__init__.py to __init__.cpython-310.pyc
+[2.080s] running install_data
+[2.082s] creating /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/share/ament_index
+[2.082s] creating /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/share/ament_index/resource_index
+[2.082s] creating /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/share/ament_index/resource_index/packages
+[2.083s] copying resource/traffic_light -> /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/share/ament_index/resource_index/packages
+[2.083s] copying package.xml -> /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/share/traffic_light
+[2.084s] running install_egg_info
+[2.087s] Copying ../../build/traffic_light/traffic_light.egg-info to /home/shokhzod/SmartMob/Week7_ws/install/traffic_light/lib/python3.10/site-packages/traffic_light-0.0.0-py3.10.egg-info
+[2.088s] running install_scripts
+[2.127s] writing list of installed files to '/home/shokhzod/SmartMob/Week7_ws/build/traffic_light/install.log'
+[2.159s] Invoked command in '/home/shokhzod/SmartMob/Week7_ws/src/traffic_light' returned '0': PYTHONPATH=/home/shokhzod/SmartMob/Week7_ws/build/traffic_light/prefix_override:/home/shokhzod/SmartMob/Week7_ws/install/traffic_light/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/traffic_light build --build-base /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/build install --record /home/shokhzod/SmartMob/Week7_ws/build/traffic_light/install.log --single-version-externally-managed
